@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 🌍 How to reach me : <a href="https://rohinjain.tech/">Rohin Jain</a>
+- 🌍 Website : <a href="https://rohinjain.tech/">Rohin Jain</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
